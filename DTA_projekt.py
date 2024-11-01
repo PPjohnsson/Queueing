@@ -173,6 +173,3 @@ plt.ylabel('Number of Customers')
 plt.legend()
 plt.grid(True)
 plt.show()
-
-plt.tight_layout()
-plt.show()
